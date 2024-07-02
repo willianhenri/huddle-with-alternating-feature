@@ -60,7 +60,7 @@ header img {
     display: flex;
 }
 
-.header-text  {
+.header-text {
     width: 50%;
 }
 
@@ -108,7 +108,7 @@ header img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    position: relative; 
+    position: relative;
 }
 
 .box {
@@ -160,10 +160,10 @@ header img {
     align-items: center;
     gap: 25px;
     padding: 50px;
-    position: absolute; 
-    bottom: -150px; 
-    z-index: 1; 
-    background: white; 
+    position: absolute;
+    bottom: -150px;
+    z-index: 1;
+    background: white;
 }
 
 h3 {
@@ -177,7 +177,7 @@ footer {
     background-color: var(--Very-Dark-Cyan);
     padding: 250px 100px 50px 100px;
     color: white;
-    position: relative; 
+    position: relative;
 }
 
 .container-footer {
@@ -254,18 +254,18 @@ svg {
     #header {
         background-image: url('images/bg-hero-mobile.svg');
     }
-    
+
     header {
         display: flex;
         justify-content: space-between;
         align-items: center;
         padding: 20px;
     }
-    
+
     header img {
         width: 90px;
     }
-    
+
     .btn-header {
         background-color: white;
         color: var(--Very-Dark-Cyan);
@@ -278,11 +278,11 @@ svg {
         font-family: 'Poppins', sans-serif;
         font-weight: 600;
     }
-    
+
     .btn-header:hover {
         color: var(--Grayish-Blue);
     }
-    
+
     .header-container {
         padding: 10px;
         display: flex;
@@ -290,11 +290,11 @@ svg {
         justify-content: center;
         align-items: center;
     }
-    
+
     .header-text {
         width: auto;
     }
-    
+
     .header-text h1 {
         width: 310px;
         font-family: 'Poppins', sans-serif;
@@ -303,7 +303,7 @@ svg {
         color: var(--Very-Dark-Cyan);
         text-align: center;
     }
-    
+
     .header-text p {
         width: 300px;
         font-size: 16px;
@@ -311,7 +311,7 @@ svg {
         margin-bottom: 30px;
         text-align: center;
     }
-    
+
     .header-text button {
         color: white;
         background-color: var(--Pink);
@@ -324,21 +324,21 @@ svg {
         margin-bottom: 30px;
         text-align: center;
     }
-    
+
     .header-image {
         width: auto;
     }
-    
+
     .header-image img {
         width: 300px;
         text-align: center;
     }
-    
+
     .hero {
         padding-top: 50px;
         flex-direction: column;
     }
-    
+
     .box {
         display: flex;
         flex-direction: column-reverse;
@@ -348,8 +348,8 @@ svg {
         align-items: center;
     }
 
-    
-    
+
+
     .flowing {
         display: flex;
         flex-direction: column;
@@ -360,21 +360,21 @@ svg {
         font-size: 15px;
         text-align: center;
     }
-    
+
     .text-box p {
         font-size: 16px;
         width: 290px;
         text-align: center;
     }
-    
+
     .text-box {
         width: auto;
     }
-    
+
     .image-box {
         width: auto;
     }
-    
+
     .image-box img {
         width: 200px;
     }
@@ -390,12 +390,12 @@ svg {
         align-items: center;
         gap: 25px;
         padding: 50px;
-        position: absolute; 
-        bottom: -150px; 
-        z-index: 1; 
-        background: white; 
+        position: absolute;
+        bottom: -150px;
+        z-index: 1;
+        background: white;
     }
-    
+
     h3 {
         color: var(--Very-Dark-Cyan);
         font-family: "Poppins", sans-serif;
@@ -404,73 +404,73 @@ svg {
         text-align: center;
         width: 275px;
     }
-    
+
     footer {
         background-color: var(--Very-Dark-Cyan);
         padding: 200px 0px 30px 30px;
         color: white;
         display: flex;
         flex-direction: column;
-        position: relative; 
+        position: relative;
     }
-    
+
     .container-footer {
         display: flex;
         justify-content: space-between;
         flex-direction: column;
     }
-    
+
     .copyright {
         width: 100%;
         display: flex;
         justify-content: center;
         font-size: 12px;
     }
-    
+
     .infos {
         display: flex;
         flex-direction: column;
         gap: 25px;
         margin-bottom: 30px;
     }
-    
+
     .infos p {
         font-size: 14px;
     }
-    
+
     .local,
     .email,
     .cell {
         display: flex;
         gap: 15px;
     }
-    
+
     .local p {
         width: 300px;
     }
-    
+
     .links {
         display: flex;
         flex-direction: column;
         gap: 0px;
     }
-    
+
     .links a {
         text-decoration: none;
         color: white;
         font-size: 14px;
     }
-    
+
     .links a:hover {
         text-decoration: underline;
     }
-    
+
     .column {
         display: flex;
         flex-direction: column;
         gap: 5px;
     }
-    
+
     .social {
         display: flex;
         gap: 10px;
@@ -478,16 +478,16 @@ svg {
         margin-top: 15px;
         margin-bottom: 30px;
     }
-    
+
     svg {
         width: 24px;
         height: 24px;
     }
-    
+
     .social svg {
         border: 1px solid white;
         border-radius: 50%;
         padding: 5px;
     }
-    
+
 }
